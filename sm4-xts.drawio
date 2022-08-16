@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T03:04:35.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="MxgOQJyeAoZVbQwnHMgK" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T03:10:34.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="lG77fpGpA5SKoCuLo_n0" version="20.2.3" type="github">
   <diagram id="gct35c9mb0id-FJxyAaq" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="cXgl99MqB2E2107KxEMa-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="cXgl99MqB2E2107KxEMa-8" target="cXgl99MqB2E2107KxEMa-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXgl99MqB2E2107KxEMa-8" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;a&lt;/font&gt;&lt;/b&gt;&lt;sup style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;j&lt;/b&gt;&lt;/font&gt;&lt;/sup&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="cXgl99MqB2E2107KxEMa-8" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;α&lt;/font&gt;&lt;/b&gt;&lt;sup style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;j&lt;/b&gt;&lt;/font&gt;&lt;/sup&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="269" y="70" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cXgl99MqB2E2107KxEMa-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="cXgl99MqB2E2107KxEMa-11" target="cXgl99MqB2E2107KxEMa-15">
@@ -79,7 +79,7 @@
           <mxGeometry x="428" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cXgl99MqB2E2107KxEMa-28" value="1) T&amp;nbsp; ←&amp;nbsp; SM4-ECB(Key&lt;sub&gt;2&lt;/sub&gt;,i)&amp;nbsp;⨂&amp;nbsp;&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;α&lt;/font&gt;&lt;/b&gt;&lt;sup&gt;j&lt;/sup&gt;&amp;nbsp;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3Dimage%3Bhtml%3D1%3BverticalAlign%3Dtop%3BverticalLabelPosition%3Dbottom%3BlabelBackgroundColor%3D%23ffffff%3BimageAspect%3D0%3Baspect%3Dfixed%3Bimage%3Dhttps%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fuser-interface-1-32%2F32%2Fadd-item-128.png%3BfontSize%3D20%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22394%22%20y%3D%22190%22%20width%3D%2220%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;br&gt;22)2&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="20" y="480" width="310" height="70" as="geometry" />
+          <mxGeometry x="118" y="610" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cXgl99MqB2E2107KxEMa-29" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="300" y="195" width="40" height="40" as="geometry" />
@@ -88,13 +88,13 @@
           <mxGeometry x="445" y="366" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cXgl99MqB2E2107KxEMa-37" value="2) PP ← P&amp;nbsp;⨁ T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="20" y="525" width="160" height="40" as="geometry" />
+          <mxGeometry x="118" y="655" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cXgl99MqB2E2107KxEMa-39" value="3) CC ← SM4-ECB(Key&lt;sub&gt;1&lt;/sub&gt;,PP)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="15" y="565" width="300" height="40" as="geometry" />
+          <mxGeometry x="113" y="695" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cXgl99MqB2E2107KxEMa-40" value="4) C ← CC ⨁ T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="16" y="605" width="170" height="40" as="geometry" />
+          <mxGeometry x="114" y="735" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
